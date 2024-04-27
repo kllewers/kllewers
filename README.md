@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kit
 - 👀 I’m an Information Science and Quantitative Biology PhD Student interested in ...
-Human Computer Interaction, Complex Networks, Network Analysis, Information Overload, Biodiveristy Informatics (specifically fireflies)
+Human Computer Interaction, Information Overload, Biodiveristy Informatics, Remote Sensing, and Drone Imagery Processing
 - 🌱 I’m currently learning ...
-Computer Vision, Simulations and Modeling using Python, Trace Ethnography, XAI
+Open Source GIS, Hyperspectral and LiDAR image processing, Simulations and Modeling using Python, Multi-Agent Systems
 - 📫 How to reach me ...
 kristen.lewers@gmail.com
 <!---
